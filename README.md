@@ -50,13 +50,13 @@ Easily deploy your Next.js app with <a href="https://vercel.com/">Vercel</a> by 
 2. Using `create-next-app`
 
    ```bash
-   npx create-next-app -e https://github.com/Skolaczk/next-starter my-project-name
+   npx create-next-app -e https://github.com/locomoki/template_nextjs_react my-project-name
    ```
 
 3. Using `git clone`
 
    ```bash
-   git clone https://github.com/Skolaczk/next-starter my-project-name
+   git clone https://github.com/locomoki/template_nextjs_react my-project-name
    ```
 ### 2. Install dependencies
 
@@ -120,16 +120,5 @@ The following scripts are available in the `package.json`:
 - `postbuild`: Generate sitemap
 - `prepare`: Install Husky for managing Git hooks
 
-## 🤝 Contribution
-To contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes, and commit them.
-4. Push your changes to the forked repository.
-5. Create a pull request.
-
 ## ❤️ Support
-
-If you liked the project, I will appreciate if you leave a star. 🌟😊
-
 Made by <a href="https://michalskolak.netlify.app/">Michał Skolak</a> 
